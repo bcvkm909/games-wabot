@@ -1,6 +1,6 @@
 {
   "name": "games-wabot",
-  "version": "0.9.8",
+  "version": "12.1.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
